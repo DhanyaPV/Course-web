@@ -1,0 +1,68 @@
+{
+    "items": [
+        {
+            "sys": {
+                "id": "1"
+            },
+            "fields": {
+                "title": "HTML",
+                "price": 100,
+                "image": {
+                    "fields": {
+                        "file": {
+                            "url": "images/html.png"
+                        }
+                    }
+                }
+            }
+        },
+        {
+            "sys": {
+                "id": "2"
+            },
+            "fields": {
+                "title": "CSS",
+                "price": 200,
+                "image": {
+                    "fields": {
+                        "file": {
+                            "url": "images/css.jfif"
+                        }
+                    }
+                }
+            }
+        },
+        {
+            "sys": {
+                "id": "3"
+            },
+            "fields": {
+                "title": "JavaScript",
+                "price": 300,
+                "image": {
+                    "fields": {
+                        "file": {
+                            "url": "images/javascript.jfif"
+                        }
+                    }
+                }
+            }
+        },
+        {
+            "sys": {
+                "id": "4"
+            },
+            "fields": {
+                "title": "PHP",
+                "price": 400,
+                "image": {
+                    "fields": {
+                        "file": {
+                            "url": "images/php.jfif"
+                        }
+                    }
+                }
+            }
+        }
+    ]
+}
